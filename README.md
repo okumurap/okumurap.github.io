@@ -1,3 +1,3 @@
 # okumurap.github.io
 
-[neco](neko.png)
+![neco](neko.png)
